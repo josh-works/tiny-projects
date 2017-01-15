@@ -37,6 +37,8 @@ now, just to make this clear, I'm almost completely unsure of what to do here. s
 Mostly, this could be fun practice. If you want to set up a branch for ME to practice pull requests on, I'd be much obliged. Drop the link to your repo in this doc, or drop it in the slack channel.
 
 
+For what it's worth, after typing all this up and trying to push to Github, I spent a while trying to sort out all these error messages related to "Updates were rejected because a pushed branch tip is behind its remote counterpart." 
+
 
 
 
