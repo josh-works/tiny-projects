@@ -26,7 +26,7 @@ Now you'll tell git that when you make changes, they should ultimately end up at
 
 6. checkout your `master` branch (`git checkout master`) and merge your new branch into the master. (`git merge branch_name master`)
 
-7. `git push` all your new stuff.
+7. `git push origin <branch name>` all your new stuff.
 
 8. Now there SHOULD be an option for you to create a new pull request. Try heading [here](https://github.com/josh-works/tiny-projects/pulls) and click "create pull request"
 
