@@ -17,6 +17,7 @@ I gingerly worked through the following guides to make a pull request:
 That will let you open up on your machine all copies of these files.
 
 3. [Set _my_ repo as the _upstream_ repo, instead of your cloned version of my repo.](https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository)
+check the command `set-url` in the git documents to see how to change origins. Remember to check what arguments it can take and how they are used.
 
 Now you'll tell git that when you make changes, they should ultimately end up at my repo instead of yours. (I think. Again, I'm stumbling around in the dark on this one.)
 
